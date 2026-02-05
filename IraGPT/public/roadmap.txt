@@ -1,0 +1,16 @@
+src/
+│── components/
+│   ├── Sidebar.jsx
+│   ├── ChatArea.jsx
+│   ├── Message.jsx
+│   ├── InputBox.jsx
+│
+│── hooks/
+│   └── useChat.js
+│
+│── services/
+│   └── gemini.js
+│
+│── App.jsx
+│── main.jsx
+│── tailwind css
